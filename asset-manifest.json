@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f61033c.css",
-    "main.js": "/static/js/main.1fbbc7ac.js",
-    "static/media/back1.jpg": "/static/media/back1.8295fd08d273f85b3d8c.jpg",
-    "index.html": "/index.html",
-    "main.9f61033c.css.map": "/static/css/main.9f61033c.css.map",
-    "main.1fbbc7ac.js.map": "/static/js/main.1fbbc7ac.js.map"
+    "main.css": "/blogram.github.io/static/css/main.3d9c6aab.css",
+    "main.js": "/blogram.github.io/static/js/main.1fbbc7ac.js",
+    "static/media/back1.jpg": "/blogram.github.io/static/media/back1.8295fd08d273f85b3d8c.jpg",
+    "index.html": "/blogram.github.io/index.html",
+    "main.3d9c6aab.css.map": "/blogram.github.io/static/css/main.3d9c6aab.css.map",
+    "main.1fbbc7ac.js.map": "/blogram.github.io/static/js/main.1fbbc7ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f61033c.css",
+    "static/css/main.3d9c6aab.css",
     "static/js/main.1fbbc7ac.js"
   ]
 }
